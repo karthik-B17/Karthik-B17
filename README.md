@@ -99,20 +99,6 @@
 - 📄 **Hybrid CNN–Attention Model for Channel Estimation** *(Working)*
 - 📰 **PC Security: Core Principles & Defensive Practices** *(Published)*
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik-B17&show_icons=true&theme=default&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=karthik-B17&theme=default" />
-</p>
-
-
----
 
 ## 🤝 Let’s Connect
 
