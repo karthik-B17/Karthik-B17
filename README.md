@@ -36,28 +36,6 @@
 - EV demand prediction using analytics techniques
 - Applied AI concepts in **sustainability & renewable energy**
 
----
-
-## 📂 Featured Projects
-
-### ⚡ EV Vehicle Charging Demand Prediction
-- Processed **50,000+ EV adoption records**
-- Applied **Random Forest & ARIMA models**
-- Achieved **87% prediction accuracy**
-- Built end-to-end ML pipeline with visualizations
-
-### 🌍 World Wide Energy Consumption Analysis (MySQL)
-- Designed **6-table relational database**
-- Performed complex SQL joins & aggregations
-- Analyzed **GDP vs Energy Consumption trends**
-
-### 🎓 Indian Higher Education EDA
-- Scraped **5,000+ college records**
-- Cleaned **95% missing data** using Pandas & NumPy
-- Created **30+ EDA visualizations**
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
