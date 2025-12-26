@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karthik B</h1>
+<h1 align="center">Hi , I'm Karthik B</h1>
 <h3 align="center">Data Analyst | Data Engineer | AI & ML Enthusiast</h3>
 
 <p align="center">
@@ -39,10 +39,9 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,py,sqlite,js&perline=8)](https://skillicons.dev)
 
 ### 📊 Data & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
@@ -57,8 +56,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 
 ### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure)
+[![My Skills](https://skillicons.dev/icons?i=azure,gcp&perline=8)](https://skillicons.dev)
+
+### Operating Systems
+
+<p align="left">
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+</p>
 
 ---
 
