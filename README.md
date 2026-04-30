@@ -14,8 +14,6 @@
 - 🎓 **B.Tech (Hons) – Electronics & Communication Engineering** at **KL University**
 - 📊 Strong interest in **Data Analytics, Data Science, and AI-driven solutions**
 - 🚀 Fast learner with hands-on experience in **ML, SQL, Big Data & Cloud**
-- 🌱 Currently working as a **Project Management Associate Intern @ Excelerate**
-- 🏆 Ranked **Top 20 / 3500 interns** at **Shell India Internship**
 
 ---
 
