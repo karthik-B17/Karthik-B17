@@ -49,7 +49,7 @@ I build **intelligent, autonomous AI systems** — from multi-agent pipelines an
 <tr>
 <td width="50%">
 
-### ✈ FlightAI — Airline AI Assistant
+### ✈  Multi-Modal Customer Support Agent
 AI-powered airline chatbot with **function calling**, voice responses, destination image generation, and session-based rate limiting.
 
 **Stack:** Mistral LLM · Gradio · gTTS · SQLite · Pollinations.ai
