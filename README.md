@@ -70,10 +70,12 @@ Domain-specific knowledge assistant using **RAG architecture** — integrates LL
 <tr>
 <td width="50%">
 
-### 🤝 Multi-Modal Customer Support Agent
-AI agent handling airline customer queries — **bookings, cancellations, FAQs** — with automated function-calling workflows.
+### 🤝  AI-powered brochure generator
+Generative AI system that **automatically analyzes company websites** and produces structured, investor-ready brochures using intelligent link selection and LLM-driven summarization.
 
-**Stack:** LLMs · Function Calling · Prompt Engineering
+**Stack:** Mistral AI · Web Scraping · LLM Orchestration · Gradio  
+
+[![HuggingFace](https://img.shields.io/badge/🤗%20Live%20Demo-yellow?style=flat)](https://huggingface.co/spaces/Karthikb87/AI_Brochure_Generator) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/karthik-B17/AI_Brochure_Generator)
 
 </td>
 <td width="50%">
