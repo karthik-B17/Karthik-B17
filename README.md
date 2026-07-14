@@ -150,11 +150,8 @@ Multi-agent system for identifying high-value deals — **data collection, analy
 |---|---|
 | Machine Learning Engineer Associate | AWS |
 | Azure AI Engineer Associate | Microsoft |
-| Generative AI Professional | Oracle |
-| Data Science Professional | Oracle |
 | AI Foundations Associate | Oracle |
 | AWS Cloud Practitioner | AWS |
-| Analytics Cloud Professional | Oracle |
 
 </div>
 
