@@ -19,7 +19,7 @@
 
 ```python
 karthik = {
-    "focus"      : ["Agentic AI", "Generative AI", "Big Data Engineering"],
+    "focus"      : ["Agentic AI", "Robotics", "Big Data Engineering"],
     "building"   : ["LLM Agents", "RAG Pipelines", "AI-powered Chatbots"],
     "education"  : "B.Tech ECE (Hons) @ KL University — CGPA 9.45",
     "location"   : "Hyderabad, India",
